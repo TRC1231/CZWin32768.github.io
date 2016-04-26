@@ -1,0 +1,12 @@
+# Site settings
+title: czw's blog
+email: chizewen@outlook.com
+description: "© 2016 czw's blog. All rights reserved."
+baseurl: "http://blog.chizewen.cn"
+url: "http://blog.chizewen.cn"
+twitter_username: czwin32768
+github_username:  czwin32768
+
+# Build settings
+markdown: kramdown
+permalink: pretty
