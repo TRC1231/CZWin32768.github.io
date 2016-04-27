@@ -3,10 +3,10 @@
   <channel>
     <title>czw&#39;s blog</title>
     <description>© 2016 czw&#39;s blog. All rights reserved.</description>
-    <link>http://blog.chizewen.cnczwin32768.github.io/</link>
-    <atom:link href="http://blog.chizewen.cnczwin32768.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Apr 2016 12:19:50 +0800</pubDate>
-    <lastBuildDate>Wed, 27 Apr 2016 12:19:50 +0800</lastBuildDate>
+    <link>http://blog.chizewen.cn/</link>
+    <atom:link href="http://blog.chizewen.cn/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Apr 2016 12:33:24 +0800</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2016 12:33:24 +0800</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;h1 id=&quot;jekyll&quot;&gt;这是我的第一篇jekyll博客&lt;/h1&gt;
 </description>
         <pubDate>Wed, 27 Apr 2016 06:14:26 +0800</pubDate>
-        <link>http://blog.chizewen.cnczwin32768.github.io/jekyll/update/2016/04/27/Hello,Jekyll/</link>
-        <guid isPermaLink="true">http://blog.chizewen.cnczwin32768.github.io/jekyll/update/2016/04/27/Hello,Jekyll/</guid>
+        <link>http://blog.chizewen.cn/jekyll/update/2016/04/27/Hello,Jekyll/</link>
+        <guid isPermaLink="true">http://blog.chizewen.cn/jekyll/update/2016/04/27/Hello,Jekyll/</guid>
         
         
         <category>jekyll</category>
